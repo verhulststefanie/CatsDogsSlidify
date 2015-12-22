@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/136401/0c3ddc3243c743f395153764d6535f8f
+url: http://rpubs.com/verhulststefanie/136401
+when: 1450788534.40301
