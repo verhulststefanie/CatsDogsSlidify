@@ -2,6 +2,7 @@ name: Publish Document
 account: rpubs
 server: rpubs.com
 bundleId:
-        https://api.rpubs.com/api/v1/document/136401/0c3ddc3243c743f395153764d6535f8f
-url: http://rpubs.com/verhulststefanie/136401
-when: 1450788534.40301
+        https://api.rpubs.com/api/v1/document/136625/de2bf9a80f594c6d957b4eda849d98f3
+url:
+        http://rpubs.com/publish/claim/136625/f29bfdcaeebb451b97bc14c365cbeefe
+when: 1450863185.29979
