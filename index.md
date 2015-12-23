@@ -2,6 +2,7 @@
 title       : Cats and Dogs Meme Generator
 subtitle    : Developing Data Products Shiny Application
 author      : Stefanie Verhulst
+logo        : coursera.png
 job         : 
 framework   : io2012      # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
@@ -11,8 +12,16 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 <style>
+aside.gdbar img {
+  width: 154px; 
+  height: 24px; 
+  right: 0;
+  left: 8px;
+  top: 22px;
+  margin: 15px 15px;
+}
   .title-slide {
-     background-color: #9db2ca;
+     background-color: #9db2ca; 
    }
   .title-slide hgroup > h1{
      color: #2b3d50 ;
